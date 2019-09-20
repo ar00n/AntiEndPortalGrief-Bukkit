@@ -1,0 +1,5 @@
+name: AntiEndPortalGrief
+version: ${project.version}
+main: com.ar0nMC.AntiEndPortalGrief
+api-version: 1.13
+authors: [ar0nMC]
